@@ -9,7 +9,7 @@ that Takes the random Jokes as a promises and I showed them on the page using In
 - [@AmolShelke2](https://www.github.com/AmolShelke2)
 
 
-# language
+# Tools
 
 * HTML  
 * CSS  
