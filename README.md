@@ -9,12 +9,13 @@ that Takes the random Jokes as a promises and I showed them on the page using In
 - [@AmolShelke2](https://www.github.com/AmolShelke2)
 
 
-# Tools
+# Technologies
 
 * HTML  
 * CSS  
 * Javascript
-* Fetch API
+
+
 ## 🚀 About Me
 
 I'm a Student and coder who love to code front end❤️
